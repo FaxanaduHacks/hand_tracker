@@ -49,7 +49,7 @@ Before running the `hand_tracker.py` script, make sure you have the necessary de
 
 Feel free to experiment with and improve the script according to your requirements and contribute any enhancements to the original repository.
                                                                                 
-# Acknowlegdements                                                              
+## Acknowlegdements                                                              
                                                                                 
 This program utilizes the OpenCV library for computer vision tasks. Credits to the OpenCV community for their contributions.
 
