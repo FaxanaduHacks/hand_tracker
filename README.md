@@ -18,7 +18,7 @@ Before running the `hand_tracker.py` script, make sure you have the necessary de
 
    ```bash
    git clone https://github.com/your-username/hand-gesture-tracker.git
-   cd hand-gesture-tracker
+   cd hand_tracker
    ```
 
 ## Usage
