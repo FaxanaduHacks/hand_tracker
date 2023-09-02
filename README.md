@@ -1,4 +1,4 @@
-# hand_recognizer
+# hand_tracker
 A Python hand recognizer script that uses OpenCV to detect and count the number 
 of fingers you're holding up. This program detects the left or right hand
 simultaneously.
